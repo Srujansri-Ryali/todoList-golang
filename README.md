@@ -1,5 +1,7 @@
 # todoList-golang:
-This is a beginner level project for youj to understand basics of GO lang and we used MongoDb as a datamanager using libraries
+This was a fun project done by me with the guidance taken from youtube really like working with this `Golang` very fast and simple
+ * This is a simple `To-do list` project which will give user a good knowledge about working of `Golang` & its `sysntax`
+--------------------------
 # prerequisites:
 -> system installed with GO 
 -> any terminal (Ps, Bash, cmd)
